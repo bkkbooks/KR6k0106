@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0106/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本業瓔珞經疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2798.xml
+    old_id: T85n2798
+hash: sha256:b4683a1cce57b9d570aa8523df34f6aeb4460691c31a192908a1c3d41e07b391

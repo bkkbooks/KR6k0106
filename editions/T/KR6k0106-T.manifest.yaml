@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6k0106/T/v1
+canonical_location: https://kanripo.org/bkk/KR6k0106/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 本業瓔珞經疏
+  identifiers:
+    krp: KR6k0106
+    cbeta: T85n2798
+    cbeta_old_id: T85n2798
+    authorityid: CA0004818
+    json_key: T2798
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2798.xml
+    old_id: T85n2798
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0106_000-T.yaml, hash: 'sha256:b4683a1cce57b9d570aa8523df34f6aeb4460691c31a192908a1c3d41e07b391'}
+  - {seq: 1, filename: KR6k0106_001-T.yaml, hash: 'sha256:fe765ba056642c6c20a9d7b5a09ee1ac4ee1f9a2971630cb2faf52cc81909785'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0106_000-T.markers.yaml, hash: 'sha256:2bb8a670bf55b6affeb8d32cdaf9dcdb5fc16b9ba4c6c59fae6d47d73f370af5'}
+  - {seq: 1, role: markers, filename: assets/KR6k0106_001-T.markers.yaml, hash: 'sha256:d140286ca6680d308d5e10d0b0dbbb01ca8b1bda3cd8750176d37d39e161011e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0106_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 20500
+  label: 本業瓔珞經疏
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0106_T_001-mulu-1
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 2 賢聖名字品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0106_T_001-mulu-2
+    span:
+    - body
+    - 9345
+    - 9345
+  label: 3 學觀品
+  type: mulu
+  level: 1
+hash: sha256:055f010d5b017a74e7f19dd5e50ff8d7bf3383ef0f16c6b27b663433495e7b20
